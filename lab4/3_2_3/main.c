@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void zamiana(int *a, int* b)
+void zamiana(int* a, int* b)
 {
     int temp =*a;
     *a=*b;
