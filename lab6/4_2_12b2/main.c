@@ -3,7 +3,7 @@
 
 void foo(int n, int *tab)
 {
-    int temp=tab[0];
+    int temp= *tab;
     for(int i=1;i<n;i++)
     {
         *(tab +i-1) = *(tab+i);
