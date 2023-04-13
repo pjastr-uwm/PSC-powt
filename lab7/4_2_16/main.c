@@ -14,7 +14,7 @@ void zwolnij(double * wsk)
 int main()
 {
     double * a = rezerwuj(5);
-    free(a);
+    zwolnij(a);
     // tak nie robimy!
     //double tab[] = {3.4, -2.3, 5.4};
     //free(tab);
