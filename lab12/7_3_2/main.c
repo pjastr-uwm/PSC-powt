@@ -18,7 +18,7 @@ struct element * wyczysc(struct element * lista)
         wsk2= wsk;
     }
     return NULL;
-};
+}
 
 void wyswietl(struct element * lista)
 {
