@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684427335 source:c:\users\local\documents\github\psc-powt\lab13\7_3_17\main.c
+	<stdio.h>
+	<stdlib.h>
+
